@@ -1,5 +1,5 @@
 {
-  "name": "userlistapp",
+  "name": "users-list-react-native",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
